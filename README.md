@@ -1,4 +1,5 @@
-### You can view this page in this link:  alesamv.github.io/rickandmorty/
+### You can view this page in this link:  https://alesamv.github.io/rickandmorty/
+Web page that consumes the rick and morty API to show the characters of the series, using React and CSS to style the components.
 
 ![Page](public/project.png "Page")
 
